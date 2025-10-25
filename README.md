@@ -18,4 +18,4 @@ You make story-based choices, explore the world of Lumeria, and shape your fate 
 2. Keep the **Fonts/** and **Sounds/** folders next to the script.  
 3. Run:
    ```bash
-   python "A Game.py"
+   python "Main.py"
